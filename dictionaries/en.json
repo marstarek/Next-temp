@@ -1,0 +1,24 @@
+{
+  "navbar": {
+    "header": "starter template "
+  },
+  "footer": {
+    "copyright": "All rights reserved",
+    "developed_by": "Ahmed Alaa",
+    "Services": "Services",
+    "Company": "Company"
+  },
+  "hero": {
+    "backgroundImage": "https://daisyui.com/images/stock/photo-1507358522600-9f71e620c44e.jpg",
+    "header": "Login now!",
+    "text": "Used by some of the world's largest companies, Next.js enables you to create full-stack Web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for the fastest builds.",
+    "Email": "Email",
+    "Password": "Password",
+    "Forgotpassword": "Forgot password ?",
+    "Login": "Login"
+  },
+  "home": {
+    "title": "Dummy Products",
+    "text": "Get dummy/fake JSON data to use as placeholder in development or in prototype testing."
+  }
+}
